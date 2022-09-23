@@ -3,7 +3,7 @@ package level1;
 import java.util.Arrays;
 
 //최소 직사각형
-public class Minimum_Rectangle {
+public class MinimumRectangle {
 
 	public static void main(String[] args) {
 		System.out.println(solution(new int[][] { { 30, 70 }, { 60, 50 }, { 60, 30 }, { 80, 40 } }));
