@@ -1,6 +1,6 @@
 import java.util.*;
 
-// 가장 가까운 글자
+//가장 가까운 글자
 class Solution {
     public int[] solution(String s) {
         int inputStrLength = s.length(); // 문자열 길이
